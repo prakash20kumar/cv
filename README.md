@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 
-
+<center>
 <a href="https://codepen.io/prakash20kumar-the-selector" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="prakash20kumar-the-selector" height="30" width="30" /></a>
 <a href="https://dev.to/prakash20kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prakash20kumar" height="30" width="30" /></a>
 <a href="https://twitter.com/prakash99kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prakash12911" height="30" width="30" /></a>
@@ -15,3 +15,4 @@
 <a href="https://dribbble.com/prakash20kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="prakash20kumar" height="30" width="30" /></a>
 <a href="https://medium.com/@prakash20kumar2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@prakash20kumar2000" height="30" width="30" /></a>
 </p>
+</center>
